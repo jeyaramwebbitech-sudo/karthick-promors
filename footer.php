@@ -7,7 +7,7 @@
                     <div class="footer-logo">
                         <div class="logo mb-20">
                             <a href="index.html">
-                                <img src="assets/images/logo.png" alt="footer logo" style="max-width: 292px;background-color: #fff; padding: 10px; border-radius: 10px;">
+                                <img src="assets/images/logo.png" alt="footer logo" style="max-width: 100%;width: 292px;background-color: #fff; padding: 10px; border-radius: 10px;">
                             </a>
                         </div>
                         <p class="mb-20 text-white">Quality Homes
