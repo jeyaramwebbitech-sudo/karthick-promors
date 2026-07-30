@@ -12,7 +12,7 @@
                           </h1>
                           <ul data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000">
                               <li>
-                                  <a href="index.html">Home</a>
+                                  <a href="index.php">Home</a>
                                   <i class="fa-sharp-duotone fa-light fa-slash-forward"></i>
                               </li>
                               <li>Interior Design</li>
@@ -50,7 +50,7 @@
                     </h3>
 
                     <p class="mb-20">
-                        Karthick Contractors creates elegant and functional interior spaces that reflect your
+                        Karthick Promotors creates elegant and functional interior spaces that reflect your
                         lifestyle and personality. From modern living rooms and stylish bedrooms to modular
                         kitchens and luxurious bathrooms, we transform every corner of your home with creative
                         designs and premium finishes.
@@ -135,7 +135,7 @@
             style="padding:30px;background:#ffffff;border-radius:24px;text-align:center;margin-bottom:30px;">
 
             <p class="m-0" style="font-size:18px;">
-                Karthick Contractors delivers complete interior design solutions, including modular kitchens,
+                Karthick Promotors delivers complete interior design solutions, including modular kitchens,
                 wardrobes, false ceilings, flooring, lighting, painting, and custom furniture. We create
                 stylish, functional interiors that enhance comfort, beauty, and everyday living.
             </p>
@@ -145,7 +145,7 @@
 </section>
 
 <!-- Benefits -->
-<section class="ta-choose-one">
+<section class="ta-choose-one pt-5 pb-5">
     <div class="container">
         <div class="ta-choose-one-wrap">
 
@@ -159,7 +159,7 @@
 
                         <h2 class="header-xl text-anime-1 text-center" data-aos="fade-up"
                             data-wow-duration="600">
-                            Why Choose Our Interior Design Services
+                            Why Choose Our Interior Works Services
                         </h2>
                     </div>
                 </div>

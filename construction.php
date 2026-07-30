@@ -12,7 +12,7 @@
                           </h1>
                           <ul data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000">
                               <li>
-                                  <a href="index.html">Home</a>
+                                  <a href="index.php">Home</a>
                                   <i class="fa-sharp-duotone fa-light fa-slash-forward"></i>
                               </li>
                               <li>Construction</li>
@@ -50,7 +50,7 @@
                     </h3>
 
                     <p class="mb-20">
-                        Karthick Contractors specializes in building high-quality residential homes that combine
+                        Karthick Promotors specializes in building high-quality residential homes that combine
                         modern architecture, structural strength, and exceptional craftsmanship. From planning
                         and foundation work to finishing touches, every project is executed with precision,
                         ensuring your dream home is built to the highest standards.
@@ -135,7 +135,7 @@
             style="padding:30px;background:#ffffff;border-radius:24px;text-align:center;margin-bottom:30px;">
 
             <p class="m-0" style="font-size:18px;">
-                At <strong>Karthick Contractors</strong>, we provide complete residential construction
+                At <strong>Karthick Promotors</strong>, we provide complete residential construction
                 solutions including home construction, villa construction, renovations, interior works,
                 architectural planning, and turnkey project execution. Our commitment to quality,
                 transparency, and customer satisfaction ensures every home is built with excellence.
@@ -146,7 +146,7 @@
 </section>
 
 <!-- Benefits -->
-<section class="ta-choose-one">
+<section class="ta-choose-one pt-5 pb-5">
     <div class="container">
         <div class="ta-choose-one-wrap">
 
@@ -167,8 +167,8 @@
                             data-aos="fade-up"
                             data-wow-duration="600">
 
-                            Why Homeowners Choose
-                            Karthick Contractors
+                            Why Choose
+                            Karthick Promotors
 
                         </h2>
 

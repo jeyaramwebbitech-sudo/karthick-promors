@@ -12,7 +12,7 @@
                            </h1>
                            <ul data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000">
                                <li>
-                                   <a href="index.html">Home</a>
+                                   <a href="index.php">Home</a>
                                    <i class="fa-sharp-duotone fa-light fa-slash-forward"></i>
                                </li>
                                <li>Contact</li>
@@ -25,84 +25,142 @@
    </section>
 
    <!-- contact -->
-   <section class="ta-contact-one ptb-120">
-       <div class="container">
-           <div class="ta-contact-one-wrap">
-               <div class="row align-item-center justify-content-center gy-30 gx-60">
-                   <div class="col-xl-6">
-                       <div class="ta-contact-one-heading">
-                           <p class="text-capitalize mb-10 color-theme" data-aos="fade-up" data-wow-duration="600">
-                               <img src="assets/images/sub-header.png" alt="sub header"> Get In Touch
-                           </p>
-                           <h2 class="header-xl text-anime-1 mb-20" data-aos="fade-up" data-wow-duration="600">
-                               Let’s Talk About Your real estate Project with our team</h2>
-                           <p data-aos="fade-up" data-wow-duration="600" class="mb-20">Our team takes time truly
-                               understand your needs offering expert insights recommendations
-                               and unwavering support throughout the entire buying process from exploring</p>
-                           <hr class="cotact-hr">
-                           <ul class="icons">
-                               <li><a href="#"><i class="fa-solid fa-location-check"></i> <strong>Location:
-                                       </strong> 59/67A, Bharathi Colony 1st Cross, Peelamedu, Coimbatore - 641004</a></li>
-                               <li><a href="mailto:karthikpromoters2003@gmail.com"><i class="fa-solid fa-envelope"></i> <strong>Email: </strong>
-                                       karthikpromoters2003@gmail.com</a></li>
-                               <li><a href="tel:+916381992796"><i class="fa-solid fa-location-check"></i>
-                                       <strong>Phone: </strong> +91 63819 92796</a></li>
-                               <li><a href="tel:helpinicio@gmail.com"><i
-                                           class="fa-sharp fa-solid fa-alarm-plus"></i> <strong>Open Hours:
-                                       </strong> Mon-Fri: 8.00 am - 9.00 pm</a></li>
-                           </ul>
-                       </div>
-                   </div>
-                   <div class="col-xl-6">
-                       <form action="#" class="form-wrapper-one" data-aos="fade-up" data-wow-duration="600">
-                           <div class="row">
-                               <div class="col-12">
-                                   <h3 class="header-lg mb-10">Send us a Messages</h3>
-                                   <p class="mb-20">Have questions about buying, selling, or the current real
-                                       estate market?
-                                       We’re here to help
-                                       send us a message anytime and a member of our team will get back to you</p>
-                               </div>
-                               <div class="col-12 mb-20">
-                                   <input type="text" value="Full Name">
-                               </div>
-                               <div class="col-12 mb-20">
-                                   <input type="email" value="Emial Address">
-                               </div>
-                               <div class="col-12 mb-20">
-                                   <input type="text" value="Subject">
-                               </div>
-                               <div class="col-12 mb-20">
-                                   <textarea name="#" id="#" placeholder="Your Message"></textarea>
-                               </div>
-                               <div class="col-12">
-                                   <button type="submit" class="ta-button-02">
-                                       Send Message
-                                       <span class="button__icon-wrapper">
-                                           <svg viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg"
-                                               class="button__icon-svg" width="10">
-                                               <path
-                                                   d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
-                                                   fill="currentColor"></path>
-                                           </svg>
+ <section class="ta-contact-one pt-5 pb-5">
+    <div class="container">
+        <div class="ta-contact-one-wrap">
+            <div class="row align-item-center justify-content-center gy-30 gx-60">
 
-                                           <svg viewBox="0 0 14 15" fill="none" width="10"
-                                               xmlns="http://www.w3.org/2000/svg"
-                                               class="button__icon-svg button__icon-svg--copy">
-                                               <path
-                                                   d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
-                                                   fill="currentColor"></path>
-                                           </svg>
-                                       </span>
-                                   </button>
-                               </div>
-                           </div>
-                       </form>
-                   </div>
-               </div>
-           </div>
-       </div>
-   </section>
+                <!-- Contact Information -->
+                <div class="col-xl-6">
+                    <div class="ta-contact-one-heading">
+
+                        <p class="text-capitalize mb-10 color-theme" data-aos="fade-up" data-wow-duration="600">
+                            <img src="./assets/images/sub-header.png" alt="sub header">
+                            Contact Us
+                        </p>
+
+                        <h2 class="header-xl text-anime-1 mb-20" data-aos="fade-up" data-wow-duration="600">
+                            Let's Build Your Dream Project Together
+                        </h2>
+
+                        <p data-aos="fade-up" data-wow-duration="600" class="mb-20">
+                            Whether you're planning a new home, interior renovation, property development, or looking
+                            for reliable property promotion services, our team is ready to guide you through every
+                            step. Contact us today for expert advice and a free consultation.
+                        </p>
+
+                        <hr class="cotact-hr">
+
+                        <ul class="icons">
+
+                            <li>
+                                <a href="#">
+                                    <i class="fa-solid fa-location-dot"></i>
+                                    <strong>Office:</strong>
+                                    59/67A, Bharathi Colony 1st Cross, Peelamedu, Coimbatore - 641004
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="mailto:info@karthickpromotors.com">
+                                    <i class="fa-solid fa-envelope"></i>
+                                    <strong>Email:</strong>
+                                    info@karthickpromotors.com
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="tel:+916381992796">
+                                    <i class="fa-solid fa-phone"></i>
+                                    <strong>Phone:</strong>
+                                    +91 63819 92796
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="#">
+                                    <i class="fa-solid fa-clock"></i>
+                                    <strong>Working Hours:</strong>
+                                    Monday - Saturday : 8:00 AM - 9:00 PM
+                                </a>
+                            </li>
+
+                        </ul>
+
+                    </div>
+                </div>
+
+                <!-- Contact Form -->
+                <div class="col-xl-6">
+
+                    <form action="#" class="form-wrapper-one" data-aos="fade-up" data-wow-duration="600">
+
+                        <div class="row">
+
+                            <div class="col-12">
+                                <h3 class="header-lg mb-10">
+                                    Send Us a Message
+                                </h3>
+
+                                <p class="mb-20">
+                                    Have a construction or property-related enquiry? Fill out the form below, and our
+                                    team will get back to you as soon as possible.
+                                </p>
+                            </div>
+
+                            <div class="col-12 mb-20">
+                                <input type="text" placeholder="Full Name">
+                            </div>
+
+                            <div class="col-12 mb-20">
+                                <input type="email" placeholder="Email Address">
+                            </div>
+
+                            <div class="col-12 mb-20">
+                                <input type="text" placeholder="Phone Number">
+                            </div>
+
+                            <div class="col-12 mb-20">
+                                <textarea placeholder="Tell us about your project..."></textarea>
+                            </div>
+
+                            <div class="col-12">
+
+                                <button type="submit" class="ta-button-02">
+                                    Send Enquiry
+
+                                    <span class="button__icon-wrapper">
+                                        <svg viewBox="0 0 14 15" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg"
+                                            class="button__icon-svg"
+                                            width="10">
+                                            <path d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                                fill="currentColor"></path>
+                                        </svg>
+
+                                        <svg viewBox="0 0 14 15" fill="none"
+                                            width="10"
+                                            xmlns="http://www.w3.org/2000/svg"
+                                            class="button__icon-svg button__icon-svg--copy">
+                                            <path d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                                fill="currentColor"></path>
+                                        </svg>
+                                    </span>
+
+                                </button>
+
+                            </div>
+
+                        </div>
+
+                    </form>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
 
    <div class="ta-map" data-aos="fade-up" data-wow-duration="600">
        <div class="container-fluid p-0">

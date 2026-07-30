@@ -85,11 +85,11 @@ body {
   background-color: var(--body);
 }
 
-@media (min-width: 1400px) {
+/* @media (min-width: 1400px) {
   .container {
     max-width: 1630px;
   }
-}
+} */
 
 .gy-30 {
   --bs-gutter-y: 30px;
@@ -2721,7 +2721,7 @@ button:focus-visible {
   justify-content: center;
   flex-direction: column;
   gap: 10px;
-  padding: 40px;
+  padding: 30px;
   border-radius: 20px;
   transition: all 0.4s ease-in-out;
   -webkit-transition: all 0.4s ease-in-out;
@@ -2747,6 +2747,7 @@ button:focus-visible {
 .ta-choose-one-item img {
   transition: all 0.4s ease-in-out;
   -webkit-transition: all 0.4s ease-in-out;
+  width: 60px;
 }
 
 .ta-choose-one-item:hover {
@@ -3539,8 +3540,8 @@ button:focus-visible {
   height: 380px;
 }
 
-.project-two-item img{
-      height: 100% !important;
+.project-two-item img {
+  height: 100% !important;
 }
 
 .project-two-item .info {
@@ -4464,6 +4465,7 @@ button:focus-visible {
   border: 1px solid var(--border);
   border-radius: 20px;
   padding: 30px;
+  background: #ffffff;
 }
 
 .ta-project-oberview h3 {
@@ -4471,6 +4473,7 @@ button:focus-visible {
   padding-bottom: 10px;
   margin-bottom: 30px;
 }
+
 
 .ta-project-oberview h3:before {
   content: "";
@@ -4488,6 +4491,7 @@ button:focus-visible {
   color: var(--header);
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .ta-project-oberview ul.feature li:last-child {
@@ -4506,7 +4510,7 @@ button:focus-visible {
 }
 
 .ta-project-details-feature {
-  margin-top: 30px;
+  margin-top: 0px;
 }
 
 .ta-project-details-feature li {
@@ -4835,3 +4839,18 @@ button:focus-visible {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+
+
+
+@media (min-width: 1400px) {
+
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl,
+  .container-xxl {
+    max-width: 1220px !important;
+  }
+}

@@ -63,7 +63,7 @@
                 <div class="container">
                     <!-- Logo -->
                     <div class="site-logo">
-                        <a href="index.html" class="logo-text">
+                        <a href="index.php" class="logo-text">
                             <img src="assets/images/logo.png" alt="logo image">
                         </a>
                     </div>
@@ -96,8 +96,8 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="renovation.php">
-                                            <span>Renovation</span>
+                                        <a href="property-development.php">
+                                            <span>Property Development</span>
                                         </a>
                                     </li>
                                 </ul>
@@ -120,9 +120,9 @@
                                 </ul>
                             </li>
 
-                            <li>
+                            <!-- <li>
                                 <a href="faq.php">FAQ</a>
-                            </li>
+                            </li> -->
 
                             <li>
                                 <a href="contact.php">Contact</a>
@@ -135,7 +135,7 @@
                     <div class="header-actions">
  
 
-                        <a href="contact.html" class="ta-button-02 d-none d-md-flex">
+                        <a href="contact.php" class="ta-button-02 d-none d-md-flex">
                             Get In Touch
                             <span class="button__icon-wrapper">
                                 <svg viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg"
@@ -213,7 +213,7 @@
 
 
                     <li>
-                        <div class="mob-row"><a href="about.html">About</a></div>
+                        <div class="mob-row"><a href="about.php">About</a></div>
                     </li>
 
 
@@ -237,7 +237,7 @@
                             </li>
                             <li>
                                 <div class="mob-row">
-                                    <a href="renovation.php">Renovation</a>
+                                    <a href="property-development.php">Property Development</a>
                                 </div>
                             </li> 
                         </ul>
@@ -266,9 +266,9 @@
                         </ul>
                     </li>
 
-                    <li>
+                    <!-- <li>
                         <div class="mob-row"><a href="faq.php">FAQ</a></div>
-                    </li>
+                    </li> -->
 
                     <li>
                         <div class="mob-row"><a href="contact.php">Contact</a></div>

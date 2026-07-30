@@ -12,7 +12,7 @@
                             </h1>
                             <ul data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000">
                                 <li>
-                                    <a href="index.html">Home</a>
+                                    <a href="index.php">Home</a>
                                     <i class="fa-sharp-duotone fa-light fa-slash-forward"></i>
                                 </li>
                                 <li>FAQ</li>
@@ -25,7 +25,7 @@
     </section>
 
     <!-- faw -->
-    <section class="ta-faw ptb-120">
+    <section class="ta-faw pt-5 pb-5">
         <div class="container">
             <div class="ta-faw-wrap">
                 <div class="row">
@@ -140,7 +140,7 @@
                             <div class="faq-item project">
                                 <div class="heading">
                                     <div class="wrap">
-                                        <h2 class="header-sm text-capitalize">Why choose Karthick Contractors?</h2>
+                                        <h2 class="header-sm text-capitalize">Why choose Karthick Promotors?</h2>
                                     </div>
                                     <i class="fa-regular fa-angle-down"></i>
                                 </div>
@@ -229,7 +229,7 @@
                                     <i class="fa-regular fa-angle-down"></i>
                                 </div>
                                 <div class="content">
-                                    <p>Simply contact Karthick Contractors to schedule a consultation. We'll discuss your ideas, inspect your site, prepare a quotation, and begin planning your dream home.</p>
+                                    <p>Simply contact Karthick Promotors to schedule a consultation. We'll discuss your ideas, inspect your site, prepare a quotation, and begin planning your dream home.</p>
                                 </div>
                             </div>
 

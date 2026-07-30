@@ -6,15 +6,14 @@
                 <div class="col-md-6 col-xl-3">
                     <div class="footer-logo">
                         <div class="logo mb-20">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="assets/images/logo.png" alt="footer logo" style="max-width: 100%;width: 292px;background-color: #fff; padding: 10px; border-radius: 10px;">
                             </a>
                         </div>
                         <p class="mb-20 text-white">Quality Homes
                             With Trusted Craftsmanship And Modern
                             Construction</p>
-                        <ul class="footer-social">
-                            <li>Follow Us:</li>
+                        <ul class="footer-social"> 
                             <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li> 
                             <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
                             <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
@@ -29,7 +28,7 @@
                         <ul class="menu">
                             <li><a href="construction.php">Residential Contrucions</a></li>
                             <li><a href="interior-design.php">Interior Design </a></li>
-                            <li><a href="renovation.php">Residential Renovation</a></li>
+                            <li><a href="property-development.php">Property Development</a></li>
                         </ul>
                     </div>
                 </div>
@@ -39,8 +38,8 @@
                             <h3 class="header-lg">Quick Links</h3>
                         </div>
                         <ul class="menu">
-                            <li><a href="about.html">About us</a></li> 
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="about.php">About us</a></li> 
+                            <li><a href="contact.php">Contact</a></li>
                             <li><a href="ongoing-projects.php">Ongoing Projects</a></li>
                             <li><a href="completed-projects.php">Completed Projects</a></li>
                         </ul>
@@ -88,7 +87,7 @@
                             © <script>
                                 document.write(new Date().getFullYear())
                             </script>
-                            <a href="index.html">Karthick Contractors</a>. All Rights Reserved.
+                            <a href="index.php">Karthick Promotors</a>. All Rights Reserved.
                         </p>
                     </div>
                 </div>

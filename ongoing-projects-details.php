@@ -12,7 +12,7 @@
                           </h1>
                           <ul data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000">
                               <li>
-                                  <a href="index.html">Home</a>
+                                  <a href="index.php">Home</a>
                                   <i class="fa-sharp-duotone fa-light fa-slash-forward"></i>
                               </li>
                               <li>Projects details</li>

@@ -12,7 +12,7 @@
                           </h1>
                           <ul data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000">
                               <li>
-                                  <a href="index.html">Home</a>
+                                  <a href="index.php">Home</a>
                                   <i class="fa-sharp-duotone fa-light fa-slash-forward"></i>
                               </li>
                               <li>Completed Projects</li>
@@ -25,7 +25,7 @@
   </section>
 
   <!-- project -->
-  <section class="ta-project-two ptb-120 bg-white">
+  <section class="ta-project-two pt-5 pb-5 bg-white">
       <div class="container">
           <div class="ta-project-two-wrap">
               <div class="row gy-30" data-aos="fade-up" data-wow-duration="600">
@@ -38,9 +38,9 @@
                           <div class="info">
                               <div class="text">
                                   <span class="color-theme text-uppercase">south Carolina, usa</span>
-                                  <a href="project-single.html" class="header-md">Mixed Use Development</a>
+                                  <a href="project-single.php" class="header-md">Mixed Use Development</a>
                               </div>
-                              <a class="icon" href="project-single.html">
+                              <a class="icon" href="project-single.php">
                                   <i class="fa-solid fa-arrow-right-long"></i>
                               </a>
                           </div>
@@ -55,9 +55,9 @@
                           <div class="info">
                               <div class="text">
                                   <span class="color-theme text-uppercase">south Carolina, usa</span>
-                                  <a href="project-single.html" class="header-md">Mixed Use Development</a>
+                                  <a href="project-single.php" class="header-md">Mixed Use Development</a>
                               </div>
-                              <a class="icon" href="project-single.html">
+                              <a class="icon" href="project-single.php">
                                   <i class="fa-solid fa-arrow-right-long"></i>
                               </a>
                           </div>
@@ -72,9 +72,9 @@
                           <div class="info">
                               <div class="text">
                                   <span class="color-theme text-uppercase">south Carolina, usa</span>
-                                  <a href="project-single.html" class="header-md">Mixed Use Development</a>
+                                  <a href="project-single.php" class="header-md">Mixed Use Development</a>
                               </div>
-                              <a class="icon" href="project-single.html">
+                              <a class="icon" href="project-single.php">
                                   <i class="fa-solid fa-arrow-right-long"></i>
                               </a>
                           </div>
@@ -89,9 +89,9 @@
                           <div class="info">
                               <div class="text">
                                   <span class="color-theme text-uppercase">south Carolina, usa</span>
-                                  <a href="project-single.html" class="header-md">Mixed Use Development</a>
+                                  <a href="project-single.php" class="header-md">Mixed Use Development</a>
                               </div>
-                              <a class="icon" href="project-single.html">
+                              <a class="icon" href="project-single.php">
                                   <i class="fa-solid fa-arrow-right-long"></i>
                               </a>
                           </div>
@@ -106,9 +106,9 @@
                           <div class="info">
                               <div class="text">
                                   <span class="color-theme text-uppercase">south Carolina, usa</span>
-                                  <a href="project-single.html" class="header-md">Mixed Use Development</a>
+                                  <a href="project-single.php" class="header-md">Mixed Use Development</a>
                               </div>
-                              <a class="icon" href="project-single.html">
+                              <a class="icon" href="project-single.php">
                                   <i class="fa-solid fa-arrow-right-long"></i>
                               </a>
                           </div>
@@ -123,9 +123,9 @@
                           <div class="info">
                               <div class="text">
                                   <span class="color-theme text-uppercase">south Carolina, usa</span>
-                                  <a href="project-single.html" class="header-md">Mixed Use Development</a>
+                                  <a href="project-single.php" class="header-md">Mixed Use Development</a>
                               </div>
-                              <a class="icon" href="project-single.html">
+                              <a class="icon" href="project-single.php">
                                   <i class="fa-solid fa-arrow-right-long"></i>
                               </a>
                           </div>

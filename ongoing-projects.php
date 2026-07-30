@@ -12,7 +12,7 @@
                           </h1>
                           <ul data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000">
                               <li>
-                                  <a href="index.html">Home</a>
+                                  <a href="index.php">Home</a>
                                   <i class="fa-sharp-duotone fa-light fa-slash-forward"></i>
                               </li>
                               <li>Ongoing Projects</li>
@@ -25,7 +25,7 @@
   </section>
 
   <!-- project -->
-  <section class="ta-project-two ptb-120 bg-white">
+  <section class="ta-project-two pt-5 pb-5 bg-white">
       <div class="container">
           <div class="ta-project-two-wrap">
               <div class="row gy-30" data-aos="fade-up" data-wow-duration="600">
@@ -38,9 +38,9 @@
                           <div class="info">
                               <div class="text">
                                   <span class="color-theme text-uppercase">KALAPATTI, Coimbatore</span>
-                                  <a href="ashoka-ongoing.php" class="header-md">ASHOKA PARK</a>
+                                  <a href="project-details.php" class="header-md">ASHOKA PARK</a>
                               </div>
-                              <a class="icon" href="ashoka-ongoing.php">
+                              <a class="icon" href="project-details.php">
                                   <i class="fa-solid fa-arrow-right-long"></i>
                               </a>
                           </div>
@@ -55,9 +55,9 @@
                           <div class="info">
                               <div class="text">
                                   <span class="color-theme text-uppercase">MALUMICHAMPATTI, Coimbatore</span>
-                                  <a href="ramu-ongoing.php" class="header-md">RAMU ENCLAVE</a>
+                                  <a href="project-details.php" class="header-md">RAMU ENCLAVE</a>
                               </div>
-                              <a class="icon" href="ramu-ongoing.php">
+                              <a class="icon" href="project-details.php">
                                   <i class="fa-solid fa-arrow-right-long"></i>
                               </a>
                           </div>
@@ -72,9 +72,9 @@
                           <div class="info">
                               <div class="text">
                                   <span class="color-theme text-uppercase">ARISIPALAYAM, Coimbatore</span>
-                                  <a href="vista-ongoing.php" class="header-md">VISTA GREEN</a>
+                                  <a href="project-details.php" class="header-md">VISTA GREEN</a>
                               </div>
-                              <a class="icon" href="vista-ongoing.php">
+                              <a class="icon" href="project-details.php">
                                   <i class="fa-solid fa-arrow-right-long"></i>
                               </a>
                           </div>

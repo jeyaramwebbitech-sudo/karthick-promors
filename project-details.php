@@ -1,139 +1,191 @@
    <?php include 'header.php'; ?>
 
-   <!-- breadcrumb -->
-   <section class="ta-breadcrumb bg-cover" style="background: url(./assets/images/breadcrumb-bg.png)">
+
+   <!-- project -->
+   <section class="ta-project-details pt-5">
        <div class="container">
-           <div class="ta-breadcrumb-wrapper">
-               <div class="row">
-                   <div class="col-12">
-                       <div class="ta-breadcrumb-content">
-                           <h1 class="header-xl txt-anim-2" data-aos="fade-up" data-aos-duration="600">
-                               Project Details
-                           </h1>
-                           <ul data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000">
+           <div class="ta-project-details-wrap">
+               <div class="row gy-30">
+                   <div class="col-lg-12" data-aos="fade-up" data-aos-duration="600">
+                       <h2 class="header-lg mb-10 text-center">Commercial & Residential Building</h2>
+                       <p class="mb-20 text-center">A real estate group is a team of agents working together to provide
+                           specialized expertise broader resources and faster service. Unlike working with a single
+                           agent a group can offer support in multiple areas like buying selling marketing and
+                           investment advice ensuring clients have access to more comprehensive assistance. Our
+                           group is designed to support both industry professionals and property</p>
+
+                   </div>
+                   <div class="col-lg-4" data-aos="fade-up" data-aos-duration="600">
+                       <div class="ta-project-oberview">
+                           <ul class="feature">
                                <li>
-                                   <a href="index.html">Home</a>
-                                   <i class="fa-sharp-duotone fa-light fa-slash-forward"></i>
+                                   <span class="header-sm">Place</span>
+                                   <span>Coimbatore</span>
                                </li>
-                               <li>Project Details</li>
                            </ul>
+                       </div>
+                   </div>
+                   <div class="col-lg-4" data-aos="fade-up" data-aos-duration="600">
+                       <div class="ta-project-oberview">
+                           <ul class="feature">
+                               <li>
+                                   <span class="header-sm">Project Status</span>
+                                   <span>Completed</span>
+                               </li>
+                           </ul>
+                       </div>
+                   </div>
+                   <div class="col-lg-4" data-aos="fade-up" data-aos-duration="600">
+                       <div class="ta-project-oberview">
+                           <ul class="feature">
+                               <li>
+                                   <span class="header-sm">Project Details</span>
+                                   <span>2 & 3BHK Flats</span>
+                               </li>
+                           </ul>
+                       </div>
+                   </div>
+                   <div class="col-12" data-aos="fade-up" data-aos-duration="600">
+                       <div class="ta-project-details-thumb">
+                           <img src="assets/images/project/project-details.png" class="img-fluid w-100"
+                               alt="project details" style="border-radius: 20px;"> 
+                       </div>
+                   </div>
+                   <div class="col-12" data-aos="fade-up" data-aos-duration="600">
+                       <div class="ta-project-details-thumb">
+                           <img src="https://humphreys.com/wp-content/uploads/bfi_thumb/2019-Prototype-E-Staks-TM-Site-Plan-pm88s07bjdnuquu9nlara1cs3sxhvdyojs0gv5i96o.jpg" class="img-fluid w-100"
+                               alt="project details" style="border-radius: 20px;">
+                       </div>
+                   </div>
+                   <div class="col-12" data-aos="fade-up" data-aos-duration="600">
+                       <div class="ta-project-details-thumb">
+                           <img src="assets/images/video-bg.jpeg" class="img-fluid w-100"
+                               alt="project details" style="border-radius: 20px;">
+                       </div>
+                   </div>
+                   <div class="col-lg-12" data-aos="fade-up" data-aos-duration="600">
+                       <div class="row pt-4">
+                           <div class="col-lg-12" style="margin-bottom: 50px;background: #ffffff;padding: 34px;border-radius: 20px;">
+                               <p class="sub-title aos-init aos-animate justify-content-center" data-aos="fade-up" data-wow-duration="600">
+                                   <img src="assets/images/sub-header.png" alt="sub header"> Neighborhood Amenities
+                               </p>
+                               <div class="row gy-30 mb-20 pt-3">
+                                   <div class="col-lg-4">
+                                       <ul class="ta-project-details-feature text-center">
+                                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Conceptualization And
+                                               Ideation</li>
+                                       </ul>
+                                   </div>
+                                   <div class="col-lg-4">
+                                       <ul class="ta-project-details-feature text-center">
+                                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Conceptualization And
+                                               Ideation</li>
+                                       </ul>
+                                   </div>
+                                   <div class="col-lg-4">
+                                       <ul class="ta-project-details-feature text-center">
+                                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Conceptualization And
+                                               Ideation</li>
+                                       </ul>
+                                   </div>
+                                   <div class="col-lg-4">
+                                       <ul class="ta-project-details-feature text-center">
+                                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Conceptualization And
+                                               Ideation</li>
+                                       </ul>
+                                   </div>
+                                   <div class="col-lg-4">
+                                       <ul class="ta-project-details-feature text-center">
+                                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Conceptualization And
+                                               Ideation</li>
+                                       </ul>
+                                   </div>
+                                   <div class="col-lg-4">
+                                       <ul class="ta-project-details-feature text-center">
+                                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Conceptualization And
+                                               Ideation</li>
+                                       </ul>
+                                   </div>
+                               </div>
+                           </div>
+                           <div class="col-lg-12" style="margin-bottom: 50px;background: #ffffff;padding: 34px;border-radius: 20px;">
+                               <p class="sub-title aos-init aos-animate justify-content-center" data-aos="fade-up" data-wow-duration="600">
+                                   <img src="assets/images/sub-header.png" alt="sub header"> Features
+                               </p>
+                               <div class="row gy-30 mb-20 pt-3">
+                                   <div class="col-lg-4">
+                                       <ul class="ta-project-details-feature text-center">
+                                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Conceptualization And
+                                               Ideation</li>
+                                       </ul>
+                                   </div>
+                                   <div class="col-lg-4">
+                                       <ul class="ta-project-details-feature text-center">
+                                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Conceptualization And
+                                               Ideation</li>
+                                       </ul>
+                                   </div>
+                                   <div class="col-lg-4">
+                                       <ul class="ta-project-details-feature text-center">
+                                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Conceptualization And
+                                               Ideation</li>
+                                       </ul>
+                                   </div>
+                                   <div class="col-lg-4">
+                                       <ul class="ta-project-details-feature text-center">
+                                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Conceptualization And
+                                               Ideation</li>
+                                       </ul>
+                                   </div>
+                                   <div class="col-lg-4">
+                                       <ul class="ta-project-details-feature text-center">
+                                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Conceptualization And
+                                               Ideation</li>
+                                       </ul>
+                                   </div>
+                                   <div class="col-lg-4">
+                                       <ul class="ta-project-details-feature text-center">
+                                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Conceptualization And
+                                               Ideation</li>
+                                       </ul>
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                       <div class="row gy-30 mb-20 pt-5">
+                           <div class="col-md-3">
+                               <div class="ta-choose-one-main aos-init aos-animate h-100" data-aos="zoom-in-up" data-aos-duration="600" >
+                                   <img src="assets/images/video-bg.jpeg" class="img-fluid h-100" style="width: 100%; border-radius: 20px;" alt="Karthick Promotors">
+                                   <a class="ta-glightbox play-button-anime" href="https://www.youtube.com/watch?v=CHYX0TwfgFM">
+                                       <i class="fa-sharp fa-solid fa-play"></i>
+                                   </a>
+                               </div>
+                           </div>
+                           <div class="col-md-3">
+                               <img src="./assets/images/project/project-inner-02.png" class="img-fluid w-100"
+                                   alt="project inner image">
+                           </div>
+                           <div class="col-md-3">
+                               <img src="./assets/images/project/project-inner-02.png" class="img-fluid w-100"
+                                   alt="project inner image">
+                           </div>
+                           <div class="col-md-3">
+                               <img src="./assets/images/project/project-inner-02.png" class="img-fluid w-100"
+                                   alt="project inner image">
+                           </div>
                        </div>
                    </div>
                </div>
            </div>
        </div>
    </section>
-
-   <!-- project -->
-   <section class="ta-project-details ptb-120">
+   <section class="pb-4 pt-5">
        <div class="container">
-           <div class="ta-project-details-wrap">
-               <div class="row mb-50">
-                   <div class="col-12" data-aos="fade-up" data-aos-duration="600">
-                       <div class="ta-project-details-thumb">
-                           <img src="./assets/images/project/project-details.png" class="img-fluid w-100"
-                               alt="project details">
-                       </div>
+           <div class="ta-map" data-aos="fade-up" data-wow-duration="600">
+               <div class="container-fluid p-0">
+                   <div class="ta-map-wrap">
+                       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7913.94616406525!2d76.99532479999999!3d11.0251521!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba858308de47c77%3A0xca2eb5ee42362479!2s59%2F67a%2C%20Bharathi%20Colony%20Rd%2C%20Peelamedu%2C%20Coimbatore%2C%20Tamil%20Nadu%20641004!5e1!3m2!1sen!2sin!4v1783428101740!5m2!1sen!2sin" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
                    </div>
-               </div>
-               <div class="row gy-30">
-                   <div class="col-lg-4" data-aos="fade-up" data-aos-duration="600">
-                       <div class="ta-project-oberview mb-30">
-                           <h3 class="header-md">Project Overview</h3>
-                           <ul class="feature">
-                               <li>
-                                   <span class="header-sm">Status</span>
-                                   <span>Completed</span>
-                               </li>
-                               <li>
-                                   <span class="header-sm">Project Type</span>
-                                   <span>Building</span>
-                               </li>
-                               <li>
-                                   <span class="header-sm">Project Area</span>
-                                   <span>26,346.74 Sq. Ft.</span>
-                               </li>
-                               <li>
-                                   <span class="header-sm">Commencement Date</span>
-                                   <span>28 May, 2024</span>
-                               </li>
-                               <li>
-                                   <span class="header-sm">Price Range</span>
-                                   <span>$600k – $1.9M</span>
-                               </li> 
-                           </ul>
-                       </div>
-                   </div>
-                   <div class="col-lg-8" data-aos="fade-up" data-aos-duration="600">
-                       <h2 class="header-lg mb-10">Commercial & Residential Building</h2>
-                       <p class="mb-20">A real estate group is a team of agents working together to provide
-                           specialized expertise broader resources and faster service. Unlike working with a single
-                           agent a group can offer support in multiple areas like buying selling marketing and
-                           investment advice ensuring clients have access to more comprehensive assistance. Our
-                           group is designed to support both industry professionals and property</p>
-
-                       <p class="mb-30">Small upgrades can make a big difference. Common strategies include
-                           improving curb appeal with landscaping, repainting walls in neutral colors, updating
-                           fixtures or lighting, deep cleaning, and staging rooms to highlight space and
-                           functionality. </p>
-
-                       <h2 class="header-lg mb-10">Project Description</h2>
-
-                       <p>Clients are matched with the most suitable agent based on their needs location and type
-                           of transaction larger transactions specialized requests may involve multiple team
-                           members collaborating to provide a seamless experience. This ensures personalized
-                           attention without compromising resources or expertise. Each member of the group
-                           specializes in different areas to ensure clients get expert guidance</p>
-
-                       <ul class="ta-project-details-feature mb-20">
-                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Conceptualization And
-                               Ideation</li>
-                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Sustainability
-                               Environmental Considerations</li>
-                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Detailed Design
-                               Development</li>
-                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Material Selection And
-                               Sustainability</li>
-                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Final Construction
-                               Documents</li>
-                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Wide variety of colors,
-                               textures, and finishes</li>
-                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Perfect balance of
-                               aesthetics and functionality</li>
-                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Ideal for flooring,
-                               walls, kitchens, bathrooms, and beyond</li>
-                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> High-quality materials
-                               sourced with care</li>
-                           <li><i class="fa-sharp-duotone fa-regular fa-badge-check"></i> Perfect balance of
-                               aesthetics and functionality</li>
-                       </ul>
-                       <p class="mb-30">Yes! We assist investors in finding profitable opportunities, analyzing
-                           market trends,
-                           calculating ROI, and managing property purchases or rentals. Our team includes
-                           specialists in residential, commercial, and rental investments to help clients make
-                           informed decisions. Our group leverages collective experience, diverse expertise, and a
-                           collaborative approach.</p>
-
-                       <h2 class="header-lg mb-10">The Challenge of Project</h2>
-                       <p class="mb-30">Our real estate group serves multiple neighborhoods and regions. We have
-                           specialists
-                           familiar with specific communities schools and market trends enabling us to guide
-                           clients accurately whether they are buying selling or investing locally or across nearby
-                           markets our team structure allows us to manage multiple clients and listings
-                           efficiently.</p>
-                       <div class="row gy-30 mb-20">
-                           <div class="col-md-6">
-                               <img src="./assets/images/project/project-inner-01.png" class="img-fluid w-100"
-                                   alt="project inner image">
-                           </div>
-                           <div class="col-md-6">
-                               <img src="./assets/images/project/project-inner-02.png" class="img-fluid w-100"
-                                   alt="project inner image">
-
-                           </div>
-                       </div> 
-                   </div>
-
                </div>
            </div>
        </div>

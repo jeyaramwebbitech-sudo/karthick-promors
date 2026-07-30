@@ -12,7 +12,7 @@
                           </h1>
                           <ul data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000">
                               <li>
-                                  <a href="index.html">Home</a>
+                                  <a href="index.php">Home</a>
                                   <i class="fa-sharp-duotone fa-light fa-slash-forward"></i>
                               </li>
                               <li>Service Details</li>
@@ -25,7 +25,7 @@
   </section>
 
   <!-- service -->
-  <section class="ta-service-details ptb-120">
+  <section class="ta-service-details pt-5 pb-5">
       <div class="container">
           <div class="ta-service-details-wrap">
               <div class="row mb-50">

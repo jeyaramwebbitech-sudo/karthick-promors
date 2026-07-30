@@ -12,7 +12,7 @@
                           </h1>
                           <ul data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000">
                               <li>
-                                  <a href="index.html">Home</a>
+                                  <a href="index.php">Home</a>
                                   <i class="fa-sharp-duotone fa-light fa-slash-forward"></i>
                               </li>
                               <li>Services</li>
@@ -25,7 +25,7 @@
   </section>
 
   <!-- services -->
-  <section class="ta-service-three ptb-120">
+  <section class="ta-service-three pt-5 pb-5">
       <div class="container">
           <div class="ta-service-three-wrap">
               <div class="service-three-items mb-40">
@@ -41,7 +41,7 @@
                                   alt="choose us image">
                               <p>Our expert engineers combine technical mastery structure
                                   strategic insight to deliver exceptional results</p>
-                              <a href="service-single.html">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
+                              <a href="service-single.php">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
                           </div>
                       </div>
                       <div class="col-md-6 col-xl-4" data-aos="fade-up" data-wow-duration="500">
@@ -55,7 +55,7 @@
                                   alt="choose us image">
                               <p>Using quality materials is essential to building safe efficient
                                   and long lasting structures from framing and insulation</p>
-                              <a href="service-single.html">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
+                              <a href="service-single.php">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
                           </div>
                       </div>
                       <div class="col-md-6 col-xl-4" data-aos="fade-up" data-wow-duration="600">
@@ -69,7 +69,7 @@
                                   alt="choose us image">
                               <p>At Absolute Security we deliver robust reliable protection
                                   built on precision expertise and innovation security </p>
-                              <a href="service-single.html">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
+                              <a href="service-single.php">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
                           </div>
                       </div>
                       <div class="col-md-6 col-xl-4" data-aos="fade-up" data-wow-duration="400">
@@ -82,7 +82,7 @@
                                   alt="choose us image">
                               <p>Our Investment & Capital team is focused creating financial
                                   growth through strategic analysis disciplined allocation</p>
-                              <a href="service-single.html">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
+                              <a href="service-single.php">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
                           </div>
                       </div>
                       <div class="col-md-6 col-xl-4" data-aos="fade-up" data-wow-duration="500">
@@ -95,7 +95,7 @@
                                   alt="choose us image">
                               <p>Our Project Management team drives initiative from concept
                                   to completion with clarity discipline and strategic focus</p>
-                              <a href="service-single.html">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
+                              <a href="service-single.php">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
                           </div>
                       </div>
                       <div class="col-md-6 col-xl-4" data-aos="fade-up" data-wow-duration="600">
@@ -108,7 +108,7 @@
                                   alt="choose us image">
                               <p>Our Real Estate Development team transforms vision into
                                   vibrant high value spaces through thoughtful planning</p>
-                              <a href="service-single.html">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
+                              <a href="service-single.php">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
                           </div>
                       </div>
                       <div class="col-md-6 col-xl-4" data-aos="fade-up" data-wow-duration="400">
@@ -121,7 +121,7 @@
                                   alt="choose us image">
                               <p>Our Residential Developments team is dedicated to creating
                                   thoughtfully planned communities that prioritize comfort</p>
-                              <a href="service-single.html">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
+                              <a href="service-single.php">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
                           </div>
                       </div>
                       <div class="col-md-6 col-xl-4" data-aos="fade-up" data-wow-duration="500">
@@ -134,7 +134,7 @@
                                   alt="choose us image">
                               <p>Our Investment Management team is committed to delivering
                                   strong sustainable returns through disciplined strategy</p>
-                              <a href="service-single.html">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
+                              <a href="service-single.php">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
                           </div>
                       </div>
                       <div class="col-md-6 col-xl-4" data-aos="fade-up" data-wow-duration="600">
@@ -147,7 +147,7 @@
                                   alt="choose us image">
                               <p>Our Extra Strong Security team is dedicated to delivering
                                   uncompromising protection through advanced highly</p>
-                              <a href="service-single.html">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
+                              <a href="service-single.php">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
                           </div>
                       </div>
                   </div>

@@ -12,7 +12,7 @@
                          </h1>
                          <ul data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000">
                              <li>
-                                 <a href="index.html">Home</a>
+                                 <a href="index.php">Home</a>
                                  <i class="fa-sharp-duotone fa-light fa-slash-forward"></i>
                              </li>
                              <li>About</li>
@@ -24,670 +24,383 @@
      </div>
  </section>
 
- <!-- about -->
- <section class="ta-about-two ptb-120">
+ <section class="ta-feature-one pt-5 pb-5">
      <div class="container">
-         <div class="ta-about-two-wrap">
-             <div class="row align-item-center justify-content-between gy-30 mb-50">
-                 <div class="col-xl-6 col-lg-8">
-                     <div class="ta-about-two-heading">
-                         <p class="sub-title justify-content-start" data-aos="fade-up" data-wow-duration="600">
-                             <img src="assets/images/sub-header.png" alt="sub header"> What we are
+         <div class="ta-feature-one-wrap">
+             <div class="row align-items-center justify-content-center gy-30 gx-60">
+
+                 <!-- Left Content -->
+                 <div class="col-12 col-lg-7">
+                     <div class="ta-feature-one-heading">
+
+                         <p class="text-capitalize mb-10 color-theme" data-aos="fade-up" data-wow-duration="600">
+                             <img src="assets/images/sub-header.png" alt="sub header"> About Us
                          </p>
-                         <h2 class="header-xl text-anime-1 mb-20" data-aos="fade-up" data-wow-duration="600">We
-                             developed landmark real estate
-                             projects that deliver lasting need</h2>
+
+                         <h2 class="header-xl text-anime-1 mb-20" data-aos="fade-up" data-wow-duration="600">
+                             Building Strong Foundations for Better Living
+                         </h2>
+
+                         <p data-aos="fade-up" data-wow-duration="600">
+                             Karthick Promotors is a trusted name in house construction, interior work, property development,
+                             and property promotions. We are passionate about creating quality living spaces that combine
+                             innovative design, superior craftsmanship, and long-lasting value.
+                         </p>
+
+                         <p data-aos="fade-up" data-wow-duration="600">
+                             With years of industry expertise, we offer complete end-to-end solutions—from planning and design
+                             to construction, interior execution, and project handover. Every project is carried out with
+                             attention to detail, quality materials, and strict engineering standards to ensure safety,
+                             durability, and customer satisfaction.
+                         </p>
+
+                         <p data-aos="fade-up" data-wow-duration="600">
+                             Whether you're building your dream home, renovating your interiors, or investing in property,
+                             our experienced team is committed to delivering transparent service, timely completion, and
+                             personalized solutions that exceed expectations.
+                         </p>
+
                      </div>
                  </div>
-                 <div class="col-xl-6 col-lg-4">
-                     <a href="contact.html" class="ta-button-02 float-none float-lg-end" data-aos="fade-up"
-                         data-wow-duration="600">
-                         Contact Us
-                         <span class="button__icon-wrapper">
-                             <svg viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg"
-                                 class="button__icon-svg" width="10">
-                                 <path
-                                     d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
-                                     fill="currentColor"></path>
-                             </svg>
 
-                             <svg viewBox="0 0 14 15" fill="none" width="10" xmlns="http://www.w3.org/2000/svg"
-                                 class="button__icon-svg button__icon-svg--copy">
-                                 <path
-                                     d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
-                                     fill="currentColor"></path>
-                             </svg>
-                         </span>
-                     </a>
-                 </div>
-             </div>
-
-             <div class="row gx-60 gy-30">
-                 <div class="col-lg-6">
-                     <div class="about-two-image" data-aos="zoom-in-right" data-wow-duration="600">
-                         <img src="assets/images/about-us.jpeg" class="img-fluid" alt="about image" style="border-radius: 20px;">
+                 <!-- Right Image -->
+                 <div class="col-12 col-lg-5">
+                     <div class="ta-feature-one-main" data-aos="zoom-in-up" data-wow-duration="600">
+                         <img src="assets/images/about-2.png"
+                             class="img-fluid"
+                             alt="Karthick Promotors"
+                             style="border-radius:20px;">
                      </div>
                  </div>
-                 <div class="col-lg-6">
-                     <p class="mb-20" data-aos="fade-up" data-wow-duration="600">With a deep understanding of the
-                         local market personalized service a
-                         commitment to excellence help clients navigate every step of the real estate journey
-                         with confidence</p>
-                     <ul class="ta-about-two-featurers" data-aos="fade-up" data-wow-duration="600">
-                         <li>
-                             <div class="img">
-                                 <img src="assets/images/index/feature/feature-icon-01.png" class="img-fluid"
-                                     alt="feature icon">
-                             </div>
-                             <div class="text">
-                                 <h3 class="header-md mb-10">Project Management</h3>
-                                 <p>Effective project management is the foundation of successful outcomes combine
-                                     strategic planning clear communication, and strong leadership to ensure </p>
-                             </div>
-                         </li>
-                         <li>
-                             <div class="img">
-                                 <img src="assets/images/index/feature/feature-icon-02.png" class="img-fluid"
-                                     alt="feature icon">
-                             </div>
-                             <div class="text">
-                                 <h3 class="header-md mb-10">Real Estate Development</h3>
-                                 <p>Real estate development is about transforming vision into lasting value our
-                                     team
-                                     oversees every stage of the process from site selection and planning</p>
-                             </div>
-                         </li>
-                         <li>
-                             <div class="img">
-                                 <img src="assets/images/index/feature/feature-icon-03.png" class="img-fluid"
-                                     alt="feature icon">
-                             </div>
-                             <div class="text">
-                                 <h3 class="header-md mb-10">Investment Management</h3>
-                                 <p>Investment management is about making smart strategic decisions that grow
-                                     and protect your wealth we take a disciplined approach combining</p>
-                             </div>
-                         </li>
-                     </ul>
-                 </div>
+
              </div>
          </div>
      </div>
  </section>
 
- <!-- partner -->
- <div class="ta-partner-two pb-120">
-     <div class="container">
-         <div class="row">
-             <div class="col-12" data-aos="fade-up" data-wow-duration="600">
-                 <div class="swiper partnerTwo">
-                     <div class="swiper-wrapper">
-                         <div class="swiper-slide">
-                             <div class="item">
-                                 <img src="assets/images/index-02/partner/partner-01.png"
-                                     alt="partner logo image">
-                             </div>
-                         </div>
-                         <div class="swiper-slide">
-                             <a href="#" class="item">
-                                 <img src="assets/images/index-02/partner/partner-02.png"
-                                     alt="partner logo image">
-                             </a>
-                         </div>
-                         <div class="swiper-slide">
-                             <a href="#" class="item">
-                                 <img src="assets/images/index-02/partner/partner-03.png"
-                                     alt="partner logo image">
-                             </a>
-                         </div>
-                         <div class="swiper-slide">
-                             <a href="#" class="item">
-                                 <img src="assets/images/index-02/partner/partner-04.png"
-                                     alt="partner logo image">
-                             </a>
-                         </div>
-                         <div class="swiper-slide">
-                             <a href="#" class="item">
-                                 <img src="assets/images/index-02/partner/partner-05.png"
-                                     alt="partner logo image">
-                             </a>
-                         </div>
-                         <div class="swiper-slide">
-                             <a href="#" class="item">
-                                 <img src="assets/images/index-02/partner/partner-06.png"
-                                     alt="partner logo image">
-                             </a>
-                         </div>
-                         <div class="swiper-slide">
-                             <div class="item">
-                                 <img src="assets/images/index-02/partner/partner-01.png"
-                                     alt="partner logo image">
-                             </div>
-                         </div>
-                         <div class="swiper-slide">
-                             <a href="#" class="item">
-                                 <img src="assets/images/index-02/partner/partner-02.png"
-                                     alt="partner logo image">
-                             </a>
-                         </div>
-                         <div class="swiper-slide">
-                             <a href="#" class="item">
-                                 <img src="assets/images/index-02/partner/partner-03.png"
-                                     alt="partner logo image">
-                             </a>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </div>
- </div>
-
-  <section class="ta-feature-one pb-120">
-            <div class="container">
-                <div class="ta-feature-one-wrap">
-                    <div class="row align-item-center justify-content-center gy-30 gx-60">
-                        <div class="col-12 col-lg-4">
-                            <div class="ta-feature-one-heading">
-                                <p class="text-capitalize mb-10 color-theme" data-aos="fade-up" data-wow-duration="600">
-                                    <img src="assets/images/sub-header.png" alt="sub header"> What we do
-                                </p>
-                                <h2 class="header-xl text-anime-1 mb-20" data-aos="fade-up" data-wow-duration="600">
-                                    Shaping
-                                    The World Ofthings To Come</h2>
-                                <p data-aos="fade-up" data-wow-duration="600">We take pride in creating thriving well
-                                    managed communities high quality and
-                                    professionalism stand at the forefront</p>
-                                <ul class="feature" data-aos="fade-up" data-wow-duration="600">
-                                    <li><i class="fa-solid fa-check"></i> Architecture Design Services</li>
-                                    <li><i class="fa-solid fa-check"></i> Luxury Apartment Services</li>
-                                    <li><i class="fa-solid fa-check"></i> Extra strong security Services</li>
-                                </ul>
-                                <a href="about.html" class="ta-button-02" data-aos="fade-up" data-wow-duration="600">
-                                    Browse More
-                                    <span class="button__icon-wrapper">
-                                        <svg viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg"
-                                            class="button__icon-svg" width="10">
-                                            <path
-                                                d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
-                                                fill="currentColor"></path>
-                                        </svg>
-
-                                        <svg viewBox="0 0 14 15" fill="none" width="10"
-                                            xmlns="http://www.w3.org/2000/svg"
-                                            class="button__icon-svg button__icon-svg--copy">
-                                            <path
-                                                d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
-                                                fill="currentColor"></path>
-                                        </svg>
-                                    </span>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-12 col-lg-4">
-                            <div class="ta-feature-one-main" data-aos="zoom-in-up" data-wow-duration="600">
-                                <img src="assets/images/about-2.png" class="img-fluid"
-                                    alt="feature main" style="border-radius: 20px;">
-                            </div>
-                        </div>
-                        <div class="col-12 col-lg-4">
-                            <ul class="ta-feature-one-features" data-aos="fade-up" data-wow-duration="600">
-                                <li>
-                                    <div class="img">
-                                        <img src="assets/images/index/feature/feature-icon-01.png" class="img-fluid"
-                                            alt="feature icon">
-                                    </div>
-                                    <div class="text">
-                                        <h3 class="header-md mb-10">Project Management</h3>
-                                        <p>Project management is the structured process
-                                            of planning organizing and overseeing</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="img">
-                                        <img src="assets/images/index/feature/feature-icon-02.png" class="img-fluid"
-                                            alt="feature icon">
-                                    </div>
-                                    <div class="text">
-                                        <h3 class="header-md mb-10">Real Estate Development</h3>
-                                        <p>Real estate development is the process land or
-                                            existing properties into valuable real estate</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="img">
-                                        <img src="assets/images/index/feature/feature-icon-03.png" class="img-fluid"
-                                            alt="feature icon">
-                                    </div>
-                                    <div class="text">
-                                        <h3 class="header-md mb-10">Investment Management</h3>
-                                        <p>Investment management is professional process
-                                            of handling financial assets and portfolios</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="img">
-                                        <img src="assets/images/index/feature/feature-icon-04.png" class="img-fluid"
-                                            alt="feature icon">
-                                    </div>
-                                    <div class="text">
-                                        <h3 class="header-md mb-10">Property Management</h3>
-                                        <p>Property management is professional oversight
-                                            and operation of real estate assets</p>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
  <!-- feature -->
- <section class="ta-feature-three ptb-120">
+ <section class="ta-feature-three pt-5 pb-5">
      <div class="container">
          <div class="ta-feature-three-wrap">
-             <div class="row align-item-center justify-content-center mb-50">
-                 <div class="col-12 col-lg-5">
-                     <div class="ta-feature-three-heading">
-                         <p class="text-center sub-title" data-aos="fade-up" data-wow-duration="600"><img
-                                 src="assets/images/sub-header.png" alt="sub header"> what we do
-                         </p>
-                         <h2 class="header-xl text-anime-1 text-center" data-aos="fade-up"
-                             data-wow-duration="600">We’ll Build Your Dream Home
-                             With Our Love</h2>
-                     </div>
-                 </div>
-             </div>
              <div class="feature-three-items mb-40">
-                 <div class="row align-items-center justify-content-center gy-30 ">
+                 <div class="row align-items-center justify-content-center gy-30">
+
+                     <!-- Vision -->
                      <div class="col-md-6 col-xl-4" data-aos="fade-up" data-wow-duration="400">
                          <div class="feature-three-item">
                              <div class="icon">
                                  <img src="assets/images/index-02/feature/feature-icon-01.png"
-                                     alt="choose us icon" class="img-fluid">
-                                 <h3 class="header-md">Expert Engineer</h3>
+                                     alt="Vision Icon" class="img-fluid">
+
+                                 <h3 class="header-md">Our Vision</h3>
                              </div>
-                             <p>Our expert engineers combine technical mastery structure
-                                 strategic insight to deliver exceptional results</p>
+
+                             <p>
+                                 To become one of the most trusted construction and property development companies by creating
+                                 exceptional living spaces that inspire confidence, comfort, and long-term value for every customer.
+                             </p>
                          </div>
                      </div>
+
+                     <!-- Mission -->
                      <div class="col-md-6 col-xl-4" data-aos="fade-up" data-wow-duration="500">
                          <div class="feature-three-item">
                              <div class="icon">
                                  <img src="assets/images/index-02/feature/feature-icon-02.png"
-                                     alt="choose us icon" class="img-fluid">
-                                 <h3 class="header-md">Quality Materials</h3>
+                                     alt="Mission Icon" class="img-fluid">
+
+                                 <h3 class="header-md">Our Mission</h3>
                              </div>
-                             <p>Using quality materials is essential to building safe efficient
-                                 and long lasting structures from framing and insulation</p>
+
+                             <p>
+                                 To deliver quality house construction, innovative interior solutions, and reliable property
+                                 development services through expert craftsmanship, premium materials, transparent practices, and
+                                 timely project completion.
+                             </p>
                          </div>
                      </div>
+
+                     <!-- Core Values -->
                      <div class="col-md-6 col-xl-4" data-aos="fade-up" data-wow-duration="600">
                          <div class="feature-three-item">
                              <div class="icon">
                                  <img src="assets/images/index-02/feature/feature-icon-03.png"
-                                     alt="choose us icon" class="img-fluid">
-                                 <h3 class="header-md">Absolute Security</h3>
+                                     alt="Core Values Icon" class="img-fluid">
+
+                                 <h3 class="header-md">Our Core Values</h3>
                              </div>
-                             <p>At Absolute Security we deliver robust reliable protection
-                                 built on precision expertise and innovation security </p>
+
+                             <p>
+                                 We are driven by integrity, quality, innovation, customer satisfaction, transparency, and
+                                 commitment. Every project is built with trust, professionalism, and a dedication to exceeding
+                                 client expectations.
+                             </p>
                          </div>
                      </div>
-                 </div>
-             </div>
-             <div class="row" data-aos="fade-up" data-wow-duration="600">
-                 <div class="col-12">
-                     <p class="text-center color-header">We create affordable quality living spaces and real
-                         estate <a href="service.html" class="color-theme"><strong>Browse More</strong></a></p>
+
                  </div>
              </div>
          </div>
      </div>
  </section>
+
+
 
  <!-- choose us-->
- <section class="ta-choose-three ptb-120">
+ <section class="ta-choose-two pt-5 pb-5">
      <div class="container">
-         <div class="ta-choose-three-wrap">
+         <div class="ta-choose-two-wrap">
              <div class="row align-item-center justify-content-between gy-30 mb-50">
+
                  <div class="col-xl-6">
-                     <div class="ta-choose-three-heading">
+                     <div class="ta-choose-two-heading">
+
                          <p class="sub-title justify-content-start" data-aos="fade-up" data-wow-duration="600">
-                             <img src="assets/images/sub-header.png" class="img-fluid" alt="sub header"> what
-                             make us different
+                             <img src="assets/images/sub-header.png" class="img-fluid" alt="sub header">
+                             Why Choose Karthick Promotors
                          </p>
-                         <h2 class="header-xl text-anime-1 mb-20" data-aos="fade-up" data-wow-duration="600">
-                             Greatest Places For Perfection And Class At Best Prices</h2>
 
-                         <p class="mb-30" data-aos="fade-up" data-wow-duration="600">I bring strong
-                             market knowledge sharp negotiation skills and a client
-                             focused approach to every
-                             transaction whether working with first time buyers seasoned investors or homeowners
+                         <h2 class="header-xl text-anime-1 mb-20 text-white"
+                             data-aos="fade-up"
+                             data-wow-duration="600">
+                             Your Trusted Partner for Quality Construction & Property Solutions
+                         </h2>
+
+                         <p class="mb-30 text-white"
+                             data-aos="fade-up"
+                             data-wow-duration="600">
+                             At Karthick Promotors, we are committed to delivering exceptional construction and property
+                             development services with uncompromising quality. From concept to completion, our experienced
+                             team focuses on craftsmanship, transparency, timely delivery, and customer satisfaction,
+                             ensuring every project exceeds expectations.
                          </p>
-                         <ul class="choose-three-items mb-30" data-aos="fade-up" data-wow-duration="600">
-                             <li><i class="fa-sharp fa-solid fa-badge-check"></i> Green and clean Environment
+
+                         <ul class="choose-items mb-30"
+                             data-aos="fade-up"
+                             data-wow-duration="600">
+
+                             <li>
+                                 <i class="fa-sharp fa-solid fa-badge-check"></i>
+                                Experienced Construction
                              </li>
-                             <li><i class="fa-sharp fa-solid fa-badge-check"></i> Modern eco friendly homes</li>
-                             <li><i class="fa-sharp fa-solid fa-badge-check"></i> Humanitarian community</li>
-                             <li><i class="fa-sharp fa-solid fa-badge-check"></i> Community focused living</li>
+
+                             <li>
+                                 <i class="fa-sharp fa-solid fa-badge-check"></i>
+                                 Premium Quality Materials
+                             </li>
+
+                             <li>
+                                 <i class="fa-sharp fa-solid fa-badge-check"></i>
+                                Legal Property Verification
+                             </li>
+
+                             <li>
+                                 <i class="fa-sharp fa-solid fa-badge-check"></i>
+                                 Customized House   
+                             </li>
+
                          </ul> 
+
+                         <div class="choose-two-btn-grp"
+                             data-aos="fade-up"
+                             data-wow-duration="600">
+
+                             <a href="contact.php" class="ta-button-01">
+                                 Contact Us
+                                 <span class="button__icon-wrapper">
+                                     <svg viewBox="0 0 14 15" fill="none"
+                                         xmlns="http://www.w3.org/2000/svg"
+                                         class="button__icon-svg"
+                                         width="10">
+                                         <path d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                             fill="currentColor"></path>
+                                     </svg>
+
+                                     <svg viewBox="0 0 14 15" fill="none"
+                                         width="10"
+                                         xmlns="http://www.w3.org/2000/svg"
+                                         class="button__icon-svg button__icon-svg--copy">
+                                         <path d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                             fill="currentColor"></path>
+                                     </svg>
+                                 </span>
+                             </a>
+
+                             <a href="mailto:info@karthickpromotors.com" class="mail-btn">
+                                 <i class="fa-solid fa-envelope"></i>
+                                 info@karthickpromotors.com
+                             </a>
+
+                         </div>
+
                      </div>
                  </div>
+
                  <div class="col-xl-6">
-                     <div class="ta-choose-three-img" data-aos="fade-left" data-wow-duration="600">
-                         <img src="assets/images/history/history-Image-01.png" class="img-fluid"
-                             alt="choose us">
-                         <a class="card ta-glightbox" href="https://www.youtube.com/watch?v=CHYX0TwfgFM">
+                     <div class="ta-choose-two-img"
+                         data-aos="fade-left"
+                         data-wow-duration="600">
+
+                         <img src="assets/images/why.jpeg"
+                             class="img-fluid"
+                             alt="Karthick Contractors" style="height: 100%;border-radius: 20px;max-height: 600px;width: 100%;">
+
+                         <a class="card ta-glightbox"
+                             href="https://www.youtube.com/watch?v=CHYX0TwfgFM">
+
                              <i class="fa-sharp fa-solid fa-play"></i>
-                             <p>see how
-                                 Inicio works</p>
+
+                             <p>
+                                 Watch Our Projects
+                             </p>
+
                          </a>
-                     </div>
-                 </div>
-             </div>
-             <div class="row">
-                 <div class="col-12 col-sm-6 col-xl-3" data-aos="fade-up" data-wow-duration="300">
-                     <div class="ta-fact-two-iconbox">
-                         <div class="icon-box">
-                             <div class="icon">
-                                 <img src="assets/images/index/about/icon-01.png" alt="about icon">
-                             </div>
-                             <div class="count">
-                                 <span class="odometer header-xxl" data-count="18">00</span><span
-                                     class="suffix">+ </span>
-                             </div>
-                         </div>
-                         <p>Years of experience</p>
-                     </div>
-                 </div>
-                 <div class="col-12 col-sm-6 col-xl-3" data-aos="fade-up" data-wow-duration="400">
-                     <div class="ta-fact-two-iconbox">
-                         <div class="icon-box">
-                             <div class="icon">
-                                 <img src="assets/images/index/about/icon-02.png" alt="about icon">
-                             </div>
-                             <div class="count">
-                                 <span class="odometer header-xxl" data-count="49">00</span><span
-                                     class="suffix">+ </span>
-                             </div>
-                         </div>
-                         <p>Completed Projects</p>
-                     </div>
-                 </div>
-                 <div class="col-12 col-sm-6 col-xl-3" data-aos="fade-up" data-wow-duration="500">
-                     <div class="ta-fact-two-iconbox">
-                         <div class="icon-box">
-                             <div class="icon">
-                                 <img src="assets/images/index/about/icon-03.png" alt="about icon">
-                             </div>
-                             <div class="count">
-                                 <span class="odometer header-xxl" data-count="1">00</span><span
-                                     class="suffix">B+ </span>
-                             </div>
-                         </div>
-                         <p>Total Projects Cost</p>
-                     </div>
-                 </div>
-                 <div class="col-12 col-sm-6 col-xl-3" data-aos="fade-up" data-wow-duration="600">
-                     <div class="ta-fact-two-iconbox">
-                         <div class="icon-box">
-                             <div class="icon">
-                                 <img src="assets/images/index/about/icon-04.png" alt="about icon">
-                             </div>
-                             <div class="count">
-                                 <span class="odometer header-xxl" data-count="60">00</span><span
-                                     class="suffix">+ </span>
-                             </div>
-                         </div>
-                         <p>Total Constructions</p>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </div>
- </section>
 
- <!-- testimonial -->
- <section class="ta-testimonial-one ptb-120">
-     <div class="container">
-         <div class="ta-testimonial-one-wrap">
-             <div class="row mb-50 align-items-center justify-content-center">
-                 <div class="col-lg-5 col-md-8">
-                     <div class="center-sub-main-header">
-                         <p class="text-center sub-title mb-10" data-aos="fade-up" data-wow-duration="600"><img
-                                 src="assets/images/sub-header.png" alt="sub header"> Testimonail
-                         </p>
-                         <h2 class="header-xl txt-anim-2 text-white text-center" data-aos="fade-up" data-aos-duration="600">
-                             Genuine Feedback From Our
-                             Trusted Clients</h2>
                      </div>
                  </div>
-             </div>
-             <div class="row gy-30 align-items-center justify-content-center">
-                 <div class="col-xl-5">
-                     <div class="testi-one-left bg-cover"
-                         style="background: url(assets/images/index/testimonial/testi-bg.png);">
-                         <img src="assets/images/index/testimonial/testi-shape.svg" class="img-fluid"
-                             alt="testimonial shape">
-                         <h3 class="header-lg text-center">
-                             Excellence in Clinical Leadership and
-                             Medical Innovation Award
-                         </h3>
-                     </div>
-                 </div>
-                 <div class="col-xl-7">
-                     <div class="swiper testiOneSwiper">
-                         <div class="swiper-wrapper">
-                             <div class="swiper-slide">
-                                 <div class="testi-one-item">
-                                     <div class="testi-img">
-                                         <img src="assets/images/index/testimonial/testi-01.png"
-                                             class="img-fluid" alt="testimonial image">
-                                         <i class="fa-sharp fa-solid fa-quote-left"></i>
-                                     </div>
-                                     <div class="testi-content">
-                                         <div class="rating">
-                                             <i class="fa-solid fa-star"></i>
-                                             <i class="fa-solid fa-star"></i>
-                                             <i class="fa-solid fa-star"></i>
-                                             <i class="fa-solid fa-star"></i>
-                                             <i class="fa-solid fa-star"></i>
-                                         </div>
-                                         <p class="desc">"From the moment I walked into the cardiology
-                                             department, I felt I was in the best hands possible the entire team
-                                             from the receptionist to the cardiologist treated me with kindness
-                                             patience and professionalism. My doctor took the time to explain
-                                             every detail of my diagnosis treatment options and what to expect
-                                             during recovery. Thanks to their expert care my heart condition.”
-                                         </p>
-                                         <div class="info">
-                                             <a href="#">
-                                                 <h3 class="header-md">Guadalupe Hickman</h3>
-                                             </a>
-                                             <span>Happy Patients</span>
-                                         </div>
-                                     </div>
-                                 </div>
-                             </div>
-                             <div class="swiper-slide">
-                                 <div class="testi-one-item">
-                                     <div class="testi-img">
-                                         <img src="assets/images/index/testimonial/testi-02.png"
-                                             class="img-fluid" alt="testimonial image">
-                                         <i class="fa-sharp fa-solid fa-quote-left"></i>
-                                     </div>
-                                     <div class="testi-content">
-                                         <div class="rating">
-                                             <i class="fa-solid fa-star"></i>
-                                             <i class="fa-solid fa-star"></i>
-                                             <i class="fa-solid fa-star"></i>
-                                             <i class="fa-solid fa-star"></i>
-                                             <i class="fa-solid fa-star"></i>
-                                         </div>
-                                         <p class="desc">"From the moment I walked into the cardiology
-                                             department, I felt I was in the best hands possible the entire team
-                                             from the receptionist to the cardiologist treated me with kindness
-                                             patience and professionalism. My doctor took the time to explain
-                                             every detail of my diagnosis treatment options and what to expect
-                                             during recovery. Thanks to their expert care my heart condition.”
-                                         </p>
-                                         <div class="info">
-                                             <a href="#">
-                                                 <h3 class="header-md">Soifa Belly</h3>
-                                             </a>
-                                             <span>Happy Patients</span>
-                                         </div>
-                                     </div>
-                                 </div>
-                             </div>
-                             <div class="swiper-slide">
-                                 <div class="testi-one-item">
-                                     <div class="testi-img">
-                                         <img src="assets/images/index/testimonial/testi-03.png"
-                                             class="img-fluid" alt="testimonial image">
-                                         <i class="fa-sharp fa-solid fa-quote-left"></i>
-                                     </div>
-                                     <div class="testi-content">
-                                         <div class="rating">
-                                             <i class="fa-solid fa-star"></i>
-                                             <i class="fa-solid fa-star"></i>
-                                             <i class="fa-solid fa-star"></i>
-                                             <i class="fa-solid fa-star"></i>
-                                             <i class="fa-solid fa-star"></i>
-                                         </div>
-                                         <p class="desc">"From the moment I walked into the cardiology
-                                             department, I felt I was in the best hands possible the entire team
-                                             from the receptionist to the cardiologist treated me with kindness
-                                             patience and professionalism. My doctor took the time to explain
-                                             every detail of my diagnosis treatment options and what to expect
-                                             during recovery. Thanks to their expert care my heart condition.”
-                                         </p>
-                                         <div class="info">
-                                             <a href="#">
-                                                 <h3 class="header-md">Denifer Jorder</h3>
-                                             </a>
-                                             <span>Happy Patients</span>
-                                         </div>
-                                     </div>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </div>
- </section>
 
- <!-- team -->
- <section class="ta-team-two ptb-120">
-     <div class="container">
-         <div class="ta-team-two-wrap">
-             <div class="row align-item-center justify-content-center mb-50">
-                 <div class="col-12 col-lg-5">
-                     <div class="ta-team-two-heading">
-                         <p class="text-center sub-title" data-aos="fade-up" data-wow-duration="600"><img
-                                 src="assets/images/sub-header.png" alt="sub header"> Meet The Team</p>
-                         <h2 class="header-xl text-anime-1 text-center" data-aos="fade-up"
-                             data-wow-duration="600">Your Real Estate Partners
-                             For Smart Life</h2>
-                     </div>
-                 </div>
-             </div>
-             <div class="row gy-30">
-                 <div class="col-md-6 col-xl-3" data-aos="fade-up" data-aos-duration="300">
-                     <div class="team-two-items">
-                         <div class="image hover-box" data-img1="assets/images/index-02/team/team-01.png"
-                             data-img2="assets/images/index-02/team/team-01.png"
-                             data-displacement="assets/images/replace-01.png" data-intensity="0.15">
-                         </div>
-                         <div class="content">
-                             <div class="info">
-                                 <a href="team-single.html">
-                                     <h3 class="header-md">Lorenzo Simmons</h3>
-                                 </a>
-                                 <p>Project Manager</p>
-                             </div>
-                             <ul class="icons">
-                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                 <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                 <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
-                             </ul>
-                         </div>
-                     </div>
-                 </div>
-                 <div class="col-md-6 col-xl-3" data-aos="fade-up" data-aos-duration="400">
-                     <div class="team-two-items">
-                         <div class="image hover-box" data-img1="assets/images/index-02/team/team-02.png"
-                             data-img2="assets/images/index-02/team/team-02.png"
-                             data-displacement="assets/images/replace-01.png" data-intensity="0.15">
-                         </div>
-                         <div class="content">
-                             <div class="info">
-                                 <a href="team-single.html">
-                                     <h3 class="header-md">Brandon Velasquez</h3>
-                                 </a>
-                                 <p>Interior Designer</p>
-                             </div>
-                             <ul class="icons">
-                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                 <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                 <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
-                             </ul>
-                         </div>
-                     </div>
-                 </div>
-                 <div class="col-md-6 col-xl-3" data-aos="fade-up" data-aos-duration="500">
-                     <div class="team-two-items">
-                         <div class="image hover-box" data-img1="assets/images/index-02/team/team-03.png"
-                             data-img2="assets/images/index-02/team/team-03.png"
-                             data-displacement="assets/images/replace-01.png" data-intensity="0.15">
-                         </div>
-                         <div class="content">
-                             <div class="info">
-                                 <a href="team-single.html">
-                                     <h3 class="header-md">Catherine Stiltner</h3>
-                                 </a>
-                                 <p>Senior Architect</p>
-                             </div>
-                             <ul class="icons">
-                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                 <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                 <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
-                             </ul>
-                         </div>
-                     </div>
-                 </div>
-                 <div class="col-md-6 col-xl-3" data-aos="fade-up" data-aos-duration="600">
-                     <div class="team-two-items">
-                         <div class="image hover-box" data-img1="assets/images/index-02/team/team-04.png"
-                             data-img2="assets/images/index-02/team/team-04.png"
-                             data-displacement="assets/images/replace-01.png" data-intensity="0.15">
-                         </div>
-                         <div class="content">
-                             <div class="info">
-                                 <a href="team-single.html">
-                                     <h3 class="header-md">Catherine Stiltner</h3>
-                                 </a>
-                                 <p>Senior Architect</p>
-                             </div>
-                             <ul class="icons">
-                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                 <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                 <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
-                             </ul>
-                         </div>
-                     </div>
-                 </div>
              </div>
          </div>
      </div>
  </section>
+ <!-- contact -->
+<section class="ta-contact-one pt-5 pb-5">
+    <div class="container">
+        <div class="ta-contact-one-wrap">
+            <div class="row align-item-center justify-content-center gy-30 gx-60">
+
+                <!-- Contact Information -->
+                <div class="col-xl-6">
+                    <div class="ta-contact-one-heading">
+
+                        <p class="text-capitalize mb-10 color-theme" data-aos="fade-up" data-wow-duration="600">
+                            <img src="./assets/images/sub-header.png" alt="sub header">
+                            Contact Us
+                        </p>
+
+                        <h2 class="header-xl text-anime-1 mb-20" data-aos="fade-up" data-wow-duration="600">
+                            Let's Build Your Dream Project Together
+                        </h2>
+
+                        <p data-aos="fade-up" data-wow-duration="600" class="mb-20">
+                            Whether you're planning a new home, interior renovation, property development, or looking
+                            for reliable property promotion services, our team is ready to guide you through every
+                            step. Contact us today for expert advice and a free consultation.
+                        </p>
+
+                        <hr class="cotact-hr">
+
+                        <ul class="icons">
+
+                            <li>
+                                <a href="#">
+                                    <i class="fa-solid fa-location-dot"></i>
+                                    <strong>Office:</strong>
+                                    59/67A, Bharathi Colony 1st Cross, Peelamedu, Coimbatore - 641004
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="mailto:info@karthickpromotors.com">
+                                    <i class="fa-solid fa-envelope"></i>
+                                    <strong>Email:</strong>
+                                    info@karthickpromotors.com
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="tel:+916381992796">
+                                    <i class="fa-solid fa-phone"></i>
+                                    <strong>Phone:</strong>
+                                    +91 63819 92796
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="#">
+                                    <i class="fa-solid fa-clock"></i>
+                                    <strong>Working Hours:</strong>
+                                    Monday - Saturday : 8:00 AM - 9:00 PM
+                                </a>
+                            </li>
+
+                        </ul>
+
+                    </div>
+                </div>
+
+                <!-- Contact Form -->
+                <div class="col-xl-6">
+
+                    <form action="#" class="form-wrapper-one" data-aos="fade-up" data-wow-duration="600">
+
+                        <div class="row">
+
+                            <div class="col-12">
+                                <h3 class="header-lg mb-10">
+                                    Send Us a Message
+                                </h3>
+
+                                <p class="mb-20">
+                                    Have a construction or property-related enquiry? Fill out the form below, and our
+                                    team will get back to you as soon as possible.
+                                </p>
+                            </div>
+
+                            <div class="col-12 mb-20">
+                                <input type="text" placeholder="Full Name">
+                            </div>
+
+                            <div class="col-12 mb-20">
+                                <input type="email" placeholder="Email Address">
+                            </div>
+
+                            <div class="col-12 mb-20">
+                                <input type="text" placeholder="Phone Number">
+                            </div>
+
+                            <div class="col-12 mb-20">
+                                <textarea placeholder="Tell us about your project..."></textarea>
+                            </div>
+
+                            <div class="col-12">
+
+                                <button type="submit" class="ta-button-02">
+                                    Send Enquiry
+
+                                    <span class="button__icon-wrapper">
+                                        <svg viewBox="0 0 14 15" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg"
+                                            class="button__icon-svg"
+                                            width="10">
+                                            <path d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                                fill="currentColor"></path>
+                                        </svg>
+
+                                        <svg viewBox="0 0 14 15" fill="none"
+                                            width="10"
+                                            xmlns="http://www.w3.org/2000/svg"
+                                            class="button__icon-svg button__icon-svg--copy">
+                                            <path d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                                fill="currentColor"></path>
+                                        </svg>
+                                    </span>
+
+                                </button>
+
+                            </div>
+
+                        </div>
+
+                    </form>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
  </main> <!-- end page-wrap -->
 
 
